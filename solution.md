@@ -72,3 +72,14 @@ Companies in e-commerce and consumer services often receive high volumes of cust
 - `app.py`: Main Streamlit interface for user interaction and admin panel
 
 ---
+
+### Future Improvements
+
+- Fine-tuned LLMs for domain-specific tone matching
+
+- Feedback loop integration for continual model adaptation
+
+- Integration with live support platforms (e.g., Zendesk, Freshdesk)
+
+
+---
