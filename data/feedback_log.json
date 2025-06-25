@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-06-24T17:27:14.525886",
+    "query": "why the hell havn't I received my money yet? this is ridiculuous",
+    "response": "I understand your frustration, and I'm truly sorry for the inconvenience. Refunds typically take 5\u20137 business days to process. If it\u2019s been longer, please check your bank statement or let me know, and I\u2019ll help resolve this for you.",
+    "sentiment": "neutral",
+    "thumbs_up": true
+  },
+  {
+    "timestamp": "2025-06-24T17:46:55.035503",
+    "query": "where can I find the refund page?",
+    "response": "You can find the refund page in the Help Center of our website. If you need further assistance, feel free to reach out, and I\u2019ll be happy to help!",
+    "sentiment": "neutral",
+    "thumbs_up": true
+  },
+  {
+    "timestamp": "2025-06-24T19:06:14.627190",
+    "query": "I received a freaking damaged product. what the hell is wrong with you guys!?",
+    "response": "I\u2019m really sorry to hear that you received a damaged product. I understand how disappointing this can be. Please visit your Orders tab, select the damaged item, and click 'Report Issue' so we can resolve this for you quickly. Thank you for your patience.",
+    "sentiment": "upset",
+    "thumbs_up": false
+  },
+  {
+    "timestamp": "2025-06-24T20:29:06.831765",
+    "query": "Understood. Thank you",
+    "response": "You're welcome! If you have any more questions or need further assistance, feel free to ask. I'm here to help!",
+    "sentiment": "neutral",
+    "thumbs_up": true
+  },
+  {
+    "timestamp": "2025-06-24T20:30:15.957850",
+    "query": "I received my item within 3 days! That was fast!",
+    "response": "That's fantastic to hear! We're thrilled that your item arrived so quickly. If you need any further assistance or have questions, feel free to reach out. Enjoy your purchase!",
+    "sentiment": "positive",
+    "thumbs_up": true
+  },
+  {
+    "timestamp": "2025-06-24T20:37:39.339184",
+    "query": "well?",
+    "response": "I understand you're looking for an update. If you could provide me with your order number, I\u2019ll check the status for you right away. Thank you for your patience!",
+    "sentiment": "neutral",
+    "thumbs_up": false
+  },
+  {
+    "timestamp": "2025-06-24T20:44:32.141555",
+    "query": "where's my order? its been 15 days",
+    "response": "I understand your concern about the delay, and I\u2019m sorry for the inconvenience. Please check the tracking information in your Orders section for updates. If you need further assistance, feel free to reach out.",
+    "sentiment": "neutral",
+    "thumbs_up": false
+  },
+  {
+    "timestamp": "2025-06-24T20:45:56.076630",
+    "query": "i cannot believe i paid $35 for shipping and delivery and it still did not arrive on time. what are you idiots doing?",
+    "response": "I completely understand your frustration, and I'm truly sorry for the inconvenience this has caused. Your experience is important to us, and I assure you we are looking into this matter. Please provide your order details, and I will do my best to resolve this for you as quickly as possible. Thank you for your patience.",
+    "sentiment": "upset",
+    "thumbs_up": false
+  },
+  {
+    "timestamp": "2025-06-25T02:02:45.750166",
+    "query": "I placed an order almost a month ago. have not received it yet. I am cancelling my order now, what is the timeframe for refund?",
+    "response": "I\u2019m sorry to hear about the delay with your order. I understand how frustrating this must be. Once you cancel, the refund typically processes within 5\u20137 business days. Let me assist you with the cancellation and ensure everything is handled smoothly.",
+    "sentiment": "neutral",
+    "thumbs_up": false
+  }
+]

@@ -1,0 +1,304 @@
+[
+  {
+    "query": "My refund is still not processed after 10 days!",
+    "response": "We apologize for the delay. Refunds typically process within 5\u20137 business days. Let me check your status now.",
+    "category": "billing",
+    "sentiment": "upset",
+    "source": "https://help.example.com/refunds"
+  },
+  {
+    "query": "How can I reset my password?",
+    "response": "Click on 'Forgot Password' on the login screen and follow the instructions in your email.",
+    "category": "account",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "Thanks for the quick help yesterday!",
+    "response": "You're very welcome! We're always here if you need anything else.",
+    "category": "general",
+    "sentiment": "positive"
+  },
+  {
+    "query": "The app crashes when I try to open it.",
+    "response": "We\u2019re really sorry about the crash. Please try reinstalling or updating the app. We\u2019re working on a fix.",
+    "category": "technical",
+    "sentiment": "upset"
+  },
+  {
+    "query": "Where can I find my order history?",
+    "response": "Your order history is available in your profile under the 'Orders' section.",
+    "category": "account",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "The product I received is defective.",
+    "response": "We\u2019re sorry to hear that. Please upload a photo of the defect and we\u2019ll send a replacement or issue a refund.",
+    "category": "product",
+    "sentiment": "upset"
+  },
+  {
+    "query": "When will the out-of-stock item be available again?",
+    "response": "We expect restocks in 1\u20132 weeks. You can sign up for notifications on the product page.",
+    "category": "product",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "I was double charged on my credit card!",
+    "response": "We sincerely apologize for the inconvenience. We\u2019ve initiated a refund for the duplicate charge.",
+    "category": "billing",
+    "sentiment": "upset"
+  },
+  {
+    "query": "How do I cancel my subscription?",
+    "response": "You can cancel your subscription anytime from the 'Billing' section in your account settings.",
+    "category": "billing",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "I\u2019m very happy with the service!",
+    "response": "Thank you so much! We appreciate your kind words and are always here to help.",
+    "category": "general",
+    "sentiment": "positive"
+  },
+  {
+    "query": "Why hasn\u2019t my package shipped yet?",
+    "response": "We\u2019re looking into the delay. Your order should ship within 2 business days. Thanks for your patience!",
+    "category": "shipping",
+    "sentiment": "upset"
+  },
+  {
+    "query": "Can I change my shipping address?",
+    "response": "Sure! If your order hasn\u2019t shipped yet, we can update the address. Please provide the new one.",
+    "category": "shipping",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "How long do returns take to process?",
+    "response": "Returns are processed within 3\u20135 business days of receiving your package.",
+    "category": "returns",
+    "sentiment": "neutral",
+    "source": "https://help.example.com/returns"
+  },
+  {
+    "query": "I\u2019ve sent three messages and no reply!",
+    "response": "We\u2019re really sorry for the delay in our response. We\u2019re here now and will prioritize your issue immediately.",
+    "category": "complaint",
+    "sentiment": "upset"
+  },
+  {
+    "query": "Just wanted to say the onboarding experience was great.",
+    "response": "That\u2019s wonderful to hear! Thanks for taking the time to let us know.",
+    "category": "general",
+    "sentiment": "positive"
+  },
+  {
+    "query": "Is there a way to track my refund status?",
+    "response": "Yes! Go to your account dashboard and click on \u2018Refunds\u2019 to see the status of your request.",
+    "category": "billing",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "Your service sucks.",
+    "response": "We\u2019re really sorry you feel this way. Let\u2019s work together to fix the problem you\u2019re facing.",
+    "category": "complaint",
+    "sentiment": "upset"
+  },
+  {
+    "query": "How do I activate two-factor authentication?",
+    "response": "You can activate 2FA from your account settings under the 'Security' tab.",
+    "category": "account",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "My refund was faster than expected!",
+    "response": "Awesome! We try to process them as quickly as possible. Glad it helped!",
+    "category": "billing",
+    "sentiment": "positive"
+  },
+  {
+    "query": "I want to update my email address.",
+    "response": "You can update your email from your account profile. Just click \u2018Edit Profile\u2019 and save changes.",
+    "category": "account",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "This is the THIRD time I’ve contacted support. Why am I being ignored?",
+    "response": "We sincerely apologize for the repeated inconvenience. Your issue is now our top priority and we’ll make this right immediately.",
+    "category": "complaint",
+    "sentiment": "upset"
+  },
+  {
+    "query": "I PAID for 2-day shipping. It’s been a week!",
+    "response": "We completely understand your frustration. Our team is investigating the delay and will ensure your shipping fees are refunded if applicable.",
+    "category": "shipping",
+    "sentiment": "upset"
+  },
+  {
+    "query": "You charged me twice and now I’m overdrawn. Fix this NOW.",
+    "response": "We’re very sorry to hear that. A refund for the duplicate charge is being processed immediately, and we’ve escalated this for faster resolution.",
+    "category": "billing",
+    "sentiment": "upset"
+  },
+  {
+    "query": "I’m really disappointed. The item looked NOTHING like the pictures.",
+    "response": "Sorry about that! We’d be happy to issue a return or replacement, and we’ll share your feedback with our product team.",
+    "category": "product",
+    "sentiment": "upset"
+  },
+  {
+    "query": "No one answers your phone line. What kind of support is this?",
+    "response": "We apologize for the difficulty reaching us. We’re currently handling high volume but can assist you right here. What can we help with?",
+    "category": "complaint",
+    "sentiment": "upset"
+  },
+  {
+    "query": "This is actually the best support experience I’ve ever had.",
+    "response": "That means a lot to us — thank you! We’re here whenever you need help.",
+    "category": "general",
+    "sentiment": "positive"
+  },
+  {
+    "query": "The instructions you sent make no sense. I’m not a tech expert.",
+    "response": "Thanks for the feedback. Let me simplify the steps for you — I’ll walk you through it personally.",
+    "category": "technical",
+    "sentiment": "upset"
+  },
+  {
+    "query": "You sent me someone else’s order. Unacceptable.",
+    "response": "We're extremely sorry for the mix-up. We’re sending a return label and shipping your correct item immediately.",
+    "category": "shipping",
+    "sentiment": "upset"
+  },
+  {
+    "query": "I can’t log in even after resetting my password.",
+    "response": "Let’s get this sorted — could you confirm the email address you used? We’ll investigate the login issue from our end.",
+    "category": "account",
+    "sentiment": "upset"
+  },
+  {
+    "query": "Why are your support hours so short? People work late!",
+    "response": "We appreciate the feedback. We’re working toward extended hours and will share your suggestion with our operations team.",
+    "category": "complaint",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "Thanks for sorting this out so quickly!",
+    "response": "Glad to hear that! We’re always here if anything else comes up.",
+    "category": "general",
+    "sentiment": "positive"
+  },
+  {
+    "query": "When will I get a tracking number?",
+    "response": "Your tracking number is sent via email as soon as the order ships. If you haven’t received it, I can retrieve it for you now.",
+    "category": "shipping",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "I’m moving — can I update the shipping address?",
+    "response": "Yes! If your order hasn’t shipped yet, just provide the new address and we’ll update it immediately.",
+    "category": "shipping",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "Do you offer live chat?",
+    "response": "We do! Just click the chat icon on our support page during working hours, and one of our agents will be with you shortly.",
+    "category": "general",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "Why did you cancel my order without telling me?",
+    "response": "We apologize for the lack of communication. Some orders are canceled automatically due to inventory or payment issues. Let me investigate yours now.",
+    "category": "order",
+    "sentiment": "upset"
+  },
+  {
+    "query": "Do I need the original packaging for a return?",
+    "response": "No, you don’t need the original packaging — just make sure the item is protected for transit. Let us know if you need a return label.",
+    "category": "returns",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "Your support rep was incredibly rude to me.",
+    "response": "We’re truly sorry about your experience. That’s not the standard we hold. We’ll escalate this and follow up with proper resolution.",
+    "category": "complaint",
+    "sentiment": "upset"
+  },
+  {
+    "query": "Can I schedule a callback?",
+    "response": "Absolutely — just share your preferred time and number, and we’ll have someone call you back within the hour.",
+    "category": "general",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "How do I update my payment method?",
+    "response": "You can update your payment method from the Billing tab under your account settings. Let me know if you need a step-by-step!",
+    "category": "billing",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "My promo code didn’t apply at checkout.",
+    "response": "Sorry about that! Please send the code and we’ll apply the discount manually to your order.",
+    "category": "billing",
+    "sentiment": "upset"
+  },
+  {
+    "query": "I need help urgently. This is a business-critical order.",
+    "response": "Understood. We’ve flagged your order for priority support and will work to resolve this immediately.",
+    "category": "shipping",
+    "sentiment": "upset"
+  },
+  {
+    "query": "Your chatbot just loops me around. This is stupid.",
+    "response": "We’re sorry for the poor experience. I’m a human agent, and I’ll assist you directly now — let’s get this fixed.",
+    "category": "technical",
+    "sentiment": "upset"
+  },
+  {
+    "query": "What’s the return deadline?",
+    "response": "Returns are accepted within 30 days of delivery. If you’re close to the deadline, let us know and we can assist further.",
+    "category": "returns",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "I'm locked out and I need access ASAP.",
+    "response": "We're on it. Please confirm your identity via email and we’ll restore access right away.",
+    "category": "account",
+    "sentiment": "upset"
+  },
+  {
+    "query": "Thank you! This was actually a pleasant experience.",
+    "response": "That’s awesome to hear — we’re glad we could help!",
+    "category": "general",
+    "sentiment": "positive"
+  },
+  {
+    "query": "I asked a simple question and got a useless response.",
+    "response": "I’m really sorry that happened. Let’s get your question answered correctly this time. What exactly were you asking?",
+    "category": "complaint",
+    "sentiment": "upset"
+  },
+  {
+    "query": "Is it safe to save my card info on your site?",
+    "response": "Yes — we use PCI-compliant, encrypted payment systems to ensure your data is safe and never stored on our servers.",
+    "category": "billing",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "What if I miss my delivery?",
+    "response": "Carriers usually attempt redelivery or leave a pickup slip. Let us know if you miss it and we’ll help coordinate.",
+    "category": "shipping",
+    "sentiment": "neutral"
+  },
+  {
+    "query": "My package was marked as delivered but it’s not here!",
+    "response": "Please check nearby entrances or with neighbors. If it’s still missing after 24 hours, we’ll start a lost package investigation.",
+    "category": "shipping",
+    "sentiment": "upset"
+  },
+  {
+    "query": "Do you ship internationally?",
+    "response": "Yes! We currently ship to 40+ countries. You can check delivery times and costs at checkout.",
+    "category": "shipping",
+    "sentiment": "neutral"
+  }
+]
