@@ -69,5 +69,6 @@ class faiss_vector_store:
         return db
 
     def get_vectorstore(self):
+        # function to return the vector db
         return self.vectorstore
 

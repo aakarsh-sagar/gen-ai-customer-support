@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2025-06-25T06:32:24.172087",
+    "query": "where is my damn refund?",
+    "response": "I understand your frustration, and I\u2019m here to help. Refunds usually take 5\u20137 business days to process. Let me check the status of your refund right now. Thank you for your patience!",
+    "sentiment": "neutral",
+    "thumbs_up": false
+  },
+  {
+    "timestamp": "2025-06-25T06:34:48.216278",
+    "query": "it has been over 2 weeks. Shipping said it would get here in 5 days",
+    "response": "I\u2019m really sorry to hear about the delay with your order. I understand how frustrating this must be. I\u2019ll look into this right away and provide you with an update as soon as possible. Thank you for your patience!",
+    "sentiment": "neutral",
+    "thumbs_up": false
+  }
+]
